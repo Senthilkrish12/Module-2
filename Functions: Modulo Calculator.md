@@ -27,3 +27,4 @@ print(f"The result of {num1} % {num2} is: {result}")
 
 
 ## Result
+program executed successfully
